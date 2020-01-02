@@ -1,2 +1,2 @@
-# Practice_dash_NumPy
-Practice dash NumPy
+# Practice-NumPy
+Practice-NumPy
